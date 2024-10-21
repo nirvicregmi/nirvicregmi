@@ -7,8 +7,8 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 ### 🚀 About Me
 - 🌏 From: Nepal
 - 💻 Currently working on: Full-stack projects using the MERN stack
-- 📚 Learning: AI & Machine Learning to integrate with real-world applications
-- ⚡ Fun fact: I enjoy hiking in the mountains and exploring nature!
+- 💡 Interested in solving complex problems with scalable and innovative solutions
+- 🌐 I believe technology can create meaningful impact in every corner of the world.
 
 ---
 
@@ -24,8 +24,8 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 ---
 
 ### 📊 GitHub Stats
-![Nirvic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirvicRegmi&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NirvicRegmi&theme=radical)
+![Nirvic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirvicregmi&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirvicregmi&theme=radical)
 
 ---
 
