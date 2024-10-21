@@ -30,4 +30,4 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn]([https://www.linkedin.com/in/nirvic-regmi](https://www.linkedin.com/in/nirvic-regmi-412499259/))
+- [LinkedIn](https://www.linkedin.com/in/nirvic-regmi-412499259/)
