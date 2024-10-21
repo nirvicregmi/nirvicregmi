@@ -29,13 +29,5 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 
 ---
 
-### 💼 Featured Projects
-- **E-Commerce Website for Electronics and Gadgets** (MVC pattern)
-- **Ambulance Booking Application** (MERN Stack)
-- **Portfolio Website**
-
----
-
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/nirvic-regmi)
-- [Portfolio Website](https://your-portfolio-link.com)
+- [LinkedIn]([https://www.linkedin.com/in/nirvic-regmi](https://www.linkedin.com/in/nirvic-regmi-412499259/))
