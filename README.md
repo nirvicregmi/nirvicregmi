@@ -43,29 +43,17 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvicRegmi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🔥 Fun with GitHub Skyline
-
-<p align="center">
-  <a href="https://skyline.github.com/nirvicregmi/2023">
-    <img src="https://skyline.github.com/nirvicregmi/2023/3d" alt="GitHub Skyline" />
-  </a>
-</p>
-
-
----
 
 ### 📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/nirvic-regmi-412499259/"><img src="https://img.shields.io/badge/LinkedIn-Nirvic%20Regmi-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:nirvicregmi@gmail.com"><img src="https://img.shields.io/badge/Email-nirvicregmi%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://nirvicregmi.com.np"><img src="https://img.shields.io/badge/Portfolio-nirvicregmi.com.np-yellow?style=flat-square&logo=githubpages"></a>
+  <a href="https://www.instagram.com/nirvic_regmi/"><img src="https://img.shields.io/badge/Instagram-nirvic_regmi-purple?style=flat-square&logo=instagram"></a>
 </p>
 
 ---
 
 ### 💡 Fun Fact
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A800&center=true&width=700&lines=I+love+exploring+AI+%26+ML+while+building+cool+projects!" alt="Fun Fact Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A800&center=true&width=700&lines=I+am+a+tech+enthusiast+who+enjoys+building+side+projects+in+my+free+time!%0AAlways+looking+for+ways+to+improve+my+skills." alt="Fun Fact Typing Animation" />
 </p>
+
