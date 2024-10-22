@@ -24,8 +24,9 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 ---
 
 ### 📊 GitHub Stats
-![Nirvic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirvicregmi&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirvicregmi&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirvicRegmi&layout=compact&theme=radical)
+
 
 ---
 
