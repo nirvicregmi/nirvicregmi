@@ -43,6 +43,9 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvicRegmi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+- **[E-Commerce Website for Electronics and Gadgets]([https://your-ecommerce-demo-link.com](https://snake-game-one-mocha.vercel.app/))**: A full-fledged e-commerce platform where users can browse and purchase electronics.
+
+
 
 ### 📫 Let's Connect
 <p align="center">
