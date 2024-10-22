@@ -2,7 +2,7 @@
 
 ![Welcome](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF5733&width=435&lines=Full-stack+Developer;Passionate+about+AI;MERN+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF5733&width=435&lines=Full-stack+Developer;Passionate+about+Technology" alt="Typing SVG" />
 </p>
 
 
