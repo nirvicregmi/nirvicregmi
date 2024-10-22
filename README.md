@@ -54,6 +54,6 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 
 ### 💡 Fun Fact
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A800&center=true&width=1200&lines=I+am+a+tech+enthusiast+who+enjoys+building+side+projects+in+my+free+time!%0AAlways+looking+for+ways+to+improve+my+skills." alt="Fun Fact Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A800&center=true&width=1500&lines=I+am+a+tech+enthusiast+who+enjoys+building+side+projects+in+my+free+time!%0AAlways+looking+for+ways+to+improve+my+skills." alt="Fun Fact Typing Animation" />
 </p>
 
