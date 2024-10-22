@@ -1,7 +1,7 @@
 # Hi there, I'm Nirvic Regmi! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&width=900&lines=Every+day+is+a+step+forward+in+the+journey+of+growth.;Consistency+builds+greatness.;Passionate+Full-stack+Developer;Exploring+AI%2C+ML%2C+and+Cutting-edge+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&width=900&lines=Every+day+is+a+step+forward+in+the+journey+of+growth.;Consistency+builds+greatness." alt="Typing SVG" />
 </p>
 
 ![Nirvic's Header](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
@@ -28,7 +28,7 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 ---
 
 ### 🎯 My Goals
-- 🧠 **Continuous Learning**: Exploring new domains like **AI** and **Machine Learning**
+- 🧠 **Continuous Learning**: Exploring new domains.
 - 💼 **Building Projects**: That make an impact and solve real-world problems
 - 💬 **Collaborating**: Open to contributing to open-source projects and learning from the community
 
