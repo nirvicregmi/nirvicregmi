@@ -1,6 +1,5 @@
 # Hi there, I'm Nirvic Regmi! 👋
 
-![Welcome](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF5733&width=900&lines=Every+day+is+a+step+forward+in+the+journey+of+growth.;Consistency+builds+greatness." alt="Typing SVG" />
 </p>
@@ -16,6 +15,9 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 - 💻 Currently working on: Full-stack projects using the MERN stack
 - 💡 Interested in solving complex problems with scalable and innovative solutions
 - 🌐 I believe technology can create meaningful impact in every corner of the world.
+
+![Welcome](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+
 
 ---
 
