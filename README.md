@@ -14,7 +14,6 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 
 - 🌏 From: **Nepal**
 - 💻 Currently working on: Full-stack projects using the **MERN stack**
-- 🤖 Exploring: **AI, Machine Learning, and cutting-edge technologies**
 - 💡 Interested in: Solving complex problems with scalable, innovative solutions
 - 🌐 Belief: **Technology can create a meaningful impact in every corner of the world**
 
@@ -54,20 +53,6 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
   </a>
 </p>
 
----
-
-### 🎥 Project Demos
-- **E-Commerce Website for Electronics and Gadgets**:  
-  ![E-Commerce Demo](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
-
-- **Ambulance Booking Application**:  
-  ![Ambulance Demo](https://media.giphy.com/media/3o6MbsYVcoErdDHe8s/giphy.gif)
-
----
-
-### 🌟 Featured Projects
-- **[E-Commerce Website for Electronics and Gadgets](https://github.com/NirvicRegmi/ecommerce-website)**
-- **[Ambulance Booking Application](https://github.com/NirvicRegmi/ambulance-booking-app)**
 
 ---
 
