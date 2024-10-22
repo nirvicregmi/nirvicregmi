@@ -2,7 +2,7 @@
 
 ![Welcome](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF5733&width=600&lines=Every+day+is+a+step+forward+in+the+journey+of+growth.;Consistency+builds+greatness." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF5733&width=900&lines=Every+day+is+a+step+forward+in+the+journey+of+growth.;Consistency+builds+greatness." alt="Typing SVG" />
 </p>
 
 
