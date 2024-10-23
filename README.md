@@ -44,6 +44,8 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvicRegmi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
 ### 📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/nirvic-regmi-412499259/"><img src="https://img.shields.io/badge/LinkedIn-Nirvic%20Regmi-blue?style=flat-square&logo=linkedin"></a>
