@@ -6,7 +6,7 @@
 
 ![Nirvic's Header](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 
-I'm a passionate full-stack developer from Nepal, with experience in building dynamic and responsive web applications. I love working on challenging projects, exploring new technologies, and pushing the boundaries of what’s possible.
+I'm a passionate full-stack developer from Nepal, with experience in building dynamic and responsive web and mobile applications. I love working on challenging projects, exploring new technologies, and pushing the boundaries of what’s possible.
 
 ---
 
@@ -14,6 +14,7 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 
 - 🌏 From: **Nepal**
 - 💻 Currently working on: Full-stack projects using the **MERN stack**
+- 📱 Mobile Development: Experience with **React Native**
 - 💡 Interested in: Solving complex problems with scalable, innovative solutions
 - 🌐 Belief: **Technology can create a meaningful impact in every corner of the world**
 
@@ -22,7 +23,7 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 ### 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,tailwind,cloudinary,git,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,react-native,nodejs,mongodb,tailwind,cloudinary,git,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -51,8 +52,6 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 
 ---
 
-### 💡 Fun Fact
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A800&center=true&width=1500&lines=I+am+a+tech+enthusiast+who+enjoys+building+side+projects+in+my+free+time!%0AAlways+looking+for+ways+to+improve+my+skills." alt="Fun Fact Typing Animation" />
 </p>
-
