@@ -49,7 +49,7 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 ### 📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/nirvic-regmi-412499259/"><img src="https://img.shields.io/badge/LinkedIn-Nirvic%20Regmi-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/nirvic_regmi/"><img src="https://img.shields.io/badge/Instagram-nirvic_regmi-purple?style=flat-square&logo=instagram"></a>
+  <a href="https://www.instagram.com/nirvic.regmi/"><img src="https://img.shields.io/badge/Instagram-nirvic_regmi-purple?style=flat-square&logo=instagram"></a>
 </p>
 
 ---
