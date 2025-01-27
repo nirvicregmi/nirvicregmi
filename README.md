@@ -23,7 +23,7 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 ### 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,react-native,nodejs,mongodb,tailwind,cloudinary,git,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,react-native,nextjs,nodejs,dotnet,mongodb,tailwind,cloudinary,git,vscode" alt="Tech Stack" />
 </p>
 
 ---
