@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&width=900&lines=Every+day+is+a+step+forward+in+the+journey+of+growth.;Consistency+builds+greatness." alt="Typing SVG" />
 </p>
 
-![Nirvic's Header](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Nirvic's Header]
 
 I'm a passionate full-stack developer from Nepal, with experience in building dynamic and responsive web and mobile applications. I love working on challenging projects, exploring new technologies, and pushing the boundaries of what’s possible.
 
