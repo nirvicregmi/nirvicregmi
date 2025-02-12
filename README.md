@@ -1,17 +1,13 @@
 # Hi there, I'm Nirvic Regmi! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&width=900&lines=Every+day+is+a+step+forward+in+the+journey+of+growth.;Consistency+builds+greatness." alt="Typing SVG" />
-</p>
-
-I'm a passionate full-stack developer from Nepal, with experience in building dynamic and responsive web and mobile applications. I love working on challenging projects, exploring new technologies, and pushing the boundaries of what’s possible.
+I am a passionate full-stack developer with a strong background in designing and developing dynamic, responsive web and mobile applications. I thrive on tackling complex challenges, exploring emerging technologies, and pushing the boundaries of innovation to create impactful digital solutions.
 
 ---
 
 ### 🚀 About Me
 
 - 🌏 From: **Nepal**
-- 💻 Currently working on: Full-stack projects using the **MERN stack**
+- 💻 Currently working on: Full-stack projects using the **Next.js** and **MERN stack**
 - 📱 Mobile Development: Experience with **React Native**
 - 💡 Interested in: Solving complex problems with scalable, innovative solutions
 - 🌐 Belief: **Technology can create a meaningful impact in every corner of the world**
@@ -30,17 +26,6 @@ I'm a passionate full-stack developer from Nepal, with experience in building dy
 - 🧠 **Continuous Learning**: Exploring new domains.
 - 💼 **Building Projects**: That make an impact and solve real-world problems
 - 💬 **Collaborating**: Open to contributing to open-source projects and learning from the community
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirvicregmi&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvicRegmi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
