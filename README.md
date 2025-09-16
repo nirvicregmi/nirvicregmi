@@ -30,16 +30,6 @@ Passionate about creating solutions that matter. I navigate the ever-evolving te
 
 ---
 
-## 🐍 Contribution Graph  
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake-light.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake.svg" />
-  </picture>
-</p>
-
----
 
 ## ✨ About Me  
 <p align="center">
