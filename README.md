@@ -1,24 +1,6 @@
 # Hi there, I'm Nirvic Regmi! 👋
 
-I am a passionate full-stack developer with a strong background in designing and developing dynamic, responsive web and mobile applications. I thrive on tackling complex challenges, exploring emerging technologies, and pushing the boundaries of innovation to create impactful digital solutions.
-
----
-
-### 🚀 About Me
-
-- 🌏 From: **Nepal**
-- 💻 Currently working on: Full-stack projects using the **Next.js** and **MERN stack**
-- 📱 Mobile Development: Experience with **React Native**
-- 💡 Interested in: Solving complex problems with scalable, innovative solutions
-- 🌐 Belief: **Technology can create a meaningful impact in every corner of the world**
-
----
-
-### 🛠 My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,react-native,nextjs,nodejs,dotnet,mongodb,tailwind,cloudinary,git,vscode" alt="Tech Stack" />
-</p>
+Passionate about creating solutions that matter. I navigate the ever-evolving tech landscape with curiosity, tackle architectural challenges with methodical precision, and firmly believe that good code should read like poetry even if it's usually more like prose.
 
 ---
 
@@ -36,6 +18,12 @@ I am a passionate full-stack developer with a strong background in designing and
 </p>
 
 ---
+
+<picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake-dark.svg" />
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake.svg" />
+     <img alt="github-snake" src="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake.svg" />
+   </picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A800&center=true&width=1500&lines=I+am+a+tech+enthusiast+who+enjoys+building+side+projects+in+my+free+time!%0AAlways+looking+for+ways+to+improve+my+skills." alt="Fun Fact Typing Animation" />
