@@ -20,10 +20,10 @@ Passionate about creating solutions that matter. I navigate the ever-evolving te
 ---
 
 <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake-dark.svg" />
-     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake.svg" />
-     <img alt="github-snake" src="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake.svg" />
-   </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nirvicregmi/nirvicregmi/output/github-snake.svg" />
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A800&center=true&width=1500&lines=I+am+a+tech+enthusiast+who+enjoys+building+side+projects+in+my+free+time!%0AAlways+looking+for+ways+to+improve+my+skills." alt="Fun Fact Typing Animation" />
