@@ -1,14 +1,6 @@
 # Hi there, I'm Nirvic Regmi! 👋
 
-Passionate about creating solutions that matter. I navigate the ever-evolving tech landscape with curiosity, tackle architectural challenges with methodical precision, and firmly believe that good code should read like poetry even if it's usually more like prose.
-
----
-
-## 🎯 My Goals  
-- 🧠 **Continuous Learning** — exploring new domains and staying adaptable  
-- 💼 **Building Projects** — developing impactful, real-world solutions  
-- 🤝 **Collaboration** — contributing to open-source and growing with the community  
-
+Passionate about creating solutions that matter. I navigate the ever-evolving tech landscape with curiosity and tackle architectural challenges with methodical precision.
 ---
 
 ## 🛠️ Tech Stack  
