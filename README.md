@@ -1,29 +1,10 @@
-# Hi there, I'm Nirvic Regmi! 👋
+# Nirvic Regmi
 
-Passionate about creating solutions that matter. I navigate the ever-evolving tech landscape with curiosity and tackle architectural challenges with methodical precision.
----
+I am driven by curiosity and a passion for crafting elegant, impactful solutions to complex problems.
 
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,django,nodejs,express,mongodb,mysql,git,linux" />
-</p>
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/nirvic-regmi-412499259/)
+- [Instagram](https://www.instagram.com/nirvic.regmi/)
 
----
-
-## 📫 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/nirvic-regmi-412499259/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nirvic%20Regmi-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/nirvic.regmi/">
-    <img src="https://img.shields.io/badge/Instagram-nirvic_regmi-purple?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
-
----
-
-
-## ✨ About Me  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Tech+enthusiast+who+loves+building+projects.;Always+exploring+ways+to+improve+my+skills.;Passionate+about+AI,+ML,+and+software+architecture." alt="Typing Animation" />
-</p>
+## About
+Dedicated to mastering the science and art of software engineering, with a focus on AI, scalable systems, and performance optimization. Fueled by a relentless curiosity to explore emerging technologies and refine skills through rigorous study.
