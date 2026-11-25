@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am naturally curious and find immense satisfaction in uncovering the smallest details that come together to form a solution. This curiosity has drawn me towards backend engineering and machine learning, where I enjoy understanding how things work beneath the surface.<br><br>Most of my focus is tinkering with machine learning models, exploring their behaviour, and understanding its mechanisms. I am equally driven to convert these learnings that create value for people.
+Curiously curious
 
 
 ## 🌐 Socials:
