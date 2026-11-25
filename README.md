@@ -10,7 +10,6 @@ I am naturally curious and find immense satisfaction in uncovering the smallest 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nirvicregmi&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nirvicregmi&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nirvicregmi&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=nirvicregmi&icon=0&color=0)](https://visitcount.itsvg.in)
